@@ -1,0 +1,6 @@
+@Service.CartNet_HostAddress = http://localhost:5156
+
+GET {{Service.CartNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
